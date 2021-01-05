@@ -1,1 +1,1 @@
-# Data structures with Jaascript
+# Data structures with Javascript
